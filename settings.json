@@ -8,7 +8,7 @@
   "server": {
     "ip": "coolsever1234.aternos.me",
     "port":  27821,
-    "version": "26.1.2",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
