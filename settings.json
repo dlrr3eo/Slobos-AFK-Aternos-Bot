@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "REAL person",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "coolsever1234.aternos.me:27821",
+    "ip": "coolsever1234.aternos.me",
     "port":  27821,
-    "version": "26.1.2",
+    "version": "1.21.1.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I only see 1 and 0",
+        "I am not a bot lil bro",
+        "I am here against my will!"
       ]
     },
     "chat-log": true,
